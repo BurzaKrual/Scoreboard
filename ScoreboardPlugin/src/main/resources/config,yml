@@ -1,0 +1,8 @@
+ScoreBoard-Display-Name: '&b&lTest Title Thingy'
+ScoreBoard:
+  line15: '&7&l%arrowright% &fYourName'
+  line14: '%player%'
+  line13: '&e&r'
+  line12: '&7&l%arrowright% &fAuthor'
+  line11: '&6Burzakrual'
+  line10: '&b&lnameoftheserver.com'
