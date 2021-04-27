@@ -1,6 +1,0 @@
-name: Scoreboard
-version: 1.0-SNAPSHOT
-main: me.burzakrual.scoreboard.Scoreboard
-api-version: 1.16
-authors: [ BurzaKrual ]
-description: :D

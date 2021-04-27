@@ -1,6 +1,0 @@
-name: Scoreboard
-version: ${project.version}
-main: me.burzakrual.scoreboard.Scoreboard
-api-version: 1.16
-authors: [ BurzaKrual ]
-description: :D
